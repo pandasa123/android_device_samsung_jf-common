@@ -73,7 +73,6 @@ $(call inherit-product-if-exists, frameworks/native/build/phone-xxhdpi-2048-hwui
 PRODUCT_PACKAGES += \
     audio.a2dp.default \
     audio_policy.msm8960 \
-    audio.primary.msm8960 \
     audio.r_submix.default \
     audio.usb.default \
     libaudio-resampler
