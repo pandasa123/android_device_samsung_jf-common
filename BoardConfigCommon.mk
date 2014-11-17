@@ -88,7 +88,7 @@ TARGET_DISPLAY_USE_RETIRE_FENCE := true
 TARGET_NO_INITLOGO := true
 
 # GPS
-TARGET_NO_RPC := true
+#TARGET_NO_RPC := true
 
 # Includes
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/jf-common/include
